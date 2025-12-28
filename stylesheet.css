@@ -1,0 +1,61 @@
+/* GStart Extension Stylesheet */
+
+/* Main button container */
+.gstart-button-box {
+    padding: 0 8px;
+    margin: 0 4px;
+    border-radius: 8px;
+    transition-duration: 200ms;
+}
+
+.gstart-button-box:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.gstart-button-box:active {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+/* Icon styling */
+.gstart-icon {
+    transition-duration: 200ms;
+    -st-icon-style: symbolic;
+}
+
+.gstart-icon-hover {
+    transform: scale(1.1);
+}
+
+/* Menu styling */
+.popup-menu-content {
+    padding: 8px 0;
+}
+
+/* Header items */
+.gstart-header {
+    font-weight: bold;
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.7);
+    padding: 4px 12px;
+}
+
+/* Menu items */
+.popup-menu-item {
+    padding: 8px 16px;
+    margin: 2px 8px;
+    border-radius: 6px;
+    transition-duration: 150ms;
+}
+
+.popup-menu-item:hover {
+    background-color: rgba(98, 160, 234, 0.3);
+}
+
+.popup-menu-item:active {
+    background-color: rgba(98, 160, 234, 0.5);
+}
+
+/* Separator */
+.popup-separator-menu-item {
+    margin: 6px 12px;
+}
