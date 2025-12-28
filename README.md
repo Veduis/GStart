@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://veduis.com/blog/images/featuredimg/2025/gstart.png" alt="GStart Logo or Preview" width="600">
+</p>
+
 # GStart
 
 A start button inspired extension for GNOME Shell.
