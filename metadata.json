@@ -2,7 +2,7 @@
     "name": "GStart",
     "description": "A beautiful Windows-like start button for GNOME Shell",
     "uuid": "gstart@github.com",
-    "version": 1,
+    "version": 2,
     "shell-version": ["45", "46", "47"],
     "url": "https://github.com/vedupro/gstart",
     "settings-schema": "org.gnome.shell.extensions.gstart"
